@@ -24,9 +24,9 @@ When input file is not specified, `gcmorse` will read `stdin` until `EOF` or `EO
 Same applies to output files - when not specified, `gcmorse` will write to `stdout`.
 
 
-<img src=https://a.fsdn.com/con/app/proj/gcmorse/screenshots/gcmorse_macos.png/245/183/1/>
-<img src=https://a.fsdn.com/con/app/proj/gcmorse/screenshots/gcmorse_debian.png/245/183/1/>
-<img src=https://a.fsdn.com/con/app/proj/gcmorse/screenshots/gcmorse_macos.png/max/max/1/>
+<img src="https://a.fsdn.com/con/app/proj/gcmorse/screenshots/gcmorse_macos.png/max/max/1"/>
+<img src="https://a.fsdn.com/con/app/proj/gcmorse/screenshots/gcmorse_debian.png/max/max/1"/>
+
 
 ## Building from source
  - Clone git repository - `git clone https://github.com/Spectrum256/gcmorse.git && cd gcmorse`
