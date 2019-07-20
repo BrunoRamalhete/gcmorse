@@ -26,7 +26,7 @@ Same applies to output files - when not specified, `gcmorse` will write to `stdo
 
 <img src=https://a.fsdn.com/con/app/proj/gcmorse/screenshots/gcmorse_macos.png/245/183/1/>
 <img src=https://a.fsdn.com/con/app/proj/gcmorse/screenshots/gcmorse_debian.png/245/183/1/>
-
+<img src=https://a.fsdn.com/con/app/proj/gcmorse/screenshots/gcmorse_macos.png/max/max/1/>
 
 ## Building from source
  - Clone git repository - `git clone https://github.com/Spectrum256/gcmorse.git && cd gcmorse`
