@@ -29,11 +29,11 @@ Same applies to output files - when not specified, `gcmorse` will write to `stdo
 
 
 ## Building from source
- - Clone git repository - `git clone https://github.com/Spectrum256/gcmorse.git && cd gcmorse`
+ - Clone git repository - `git clone https://github.com/BrunoRamalhete/gcmorse.git && cd gcmorse`
  - Invoke makefile - `make all`
  - To install use `sudo make install`, and to uninstall - `sudo make uninstall`.
  
 ## Developing gcmorse with Docker
- - Clone git repository - `git clone https://github.com/Spectrum256/gcmorse.git && cd gcmorse`
+ - Clone git repository - `git clone https://github.com/BrunoRamalhete/gcmorse.git && cd gcmorse`
  - Build docker image - `docker build -t gcmorse .`
  - Run `gcmorse` binary using docker container based on the gcmorse image - `docker run -it gcmorse gcmorse`
