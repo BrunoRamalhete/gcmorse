@@ -34,6 +34,7 @@
 
 
 #define VERSION "v1.1b"
+#define AUTHOR "Bruno Santos Ramalhete"
 #define SUPPORTED_CHARACTERS 57
 
 #define FLAG_DECRYPT ( 1 << 0 )
