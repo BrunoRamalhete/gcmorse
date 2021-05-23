@@ -23,8 +23,7 @@
 //Display version number
 void version( int exitcode )
 {
-	fprintf( stderr, "gcmorse " VERSION "\n\n\r" );
-	fprintf( stderr, "Bruno Santos Ramalhete" );
+	fprintf( stderr, "gcmorse " VERSION " by " AUTHOR "\n\n\r" );
 	fprintf( stderr,
 		"This program is distributed in the hope that it will be useful,\n\r"
 		"but WITHOUT ANY WARRANTY; without even the implied warranty of\n\r"
@@ -36,8 +35,7 @@ void version( int exitcode )
 //Display help message
 void help( int exitcode )
 {
-	fprintf( stderr, "gcmorse " VERSION "\n\n\r" );
-	fprintf( stderr, "Bruno Santos Ramalhete" );
+	fprintf( stderr, "gcmorse " VERSION " by " AUTHOR "\n\n\r" );
 	fprintf( stderr,
 		"This program is distributed in the hope that it will be useful,\n\r"
 		"but WITHOUT ANY WARRANTY; without even the implied warranty of\n\r"
